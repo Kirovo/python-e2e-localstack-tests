@@ -10,3 +10,4 @@ __pycache__
 .env
 allure-results/
 python_e2e_localstack_tests.egg-info
+
